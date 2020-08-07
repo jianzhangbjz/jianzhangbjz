@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jian's github stats](https://github-readme-stats.vercel.app/api?username=jianzhangbjz&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jian's github stats](https://github-readme-stats.vercel.app/api?username=jianzhangbjz&count_private=true&show_icons=true&theme=radical)](https://github.com/jianzhangbjz/github-readme-stats)
