@@ -1,7 +1,7 @@
 ### Hi there, I'm Jian Zhang👋
 
 - [Project Management Professional (PMP)](https://www.youracclaim.com/badges/77ff0c8d-cf6b-4532-b471-ba7263ff1113/public_url)
-- 🔭 I’m currently working on [OperatorFramework](https://github.com/operator-framework)
+- 🔭 I’m currently working on [Operator Framework](https://github.com/operator-framework) and [Machine Config Operator](https://github.com/openshift/machine-config-operator)
 - 👯 I'm maintaining a website for [Operator](https://www.operator.org.cn/)
 - 💬 Ask me anything [here](https://github.com/jianzhangbjz/jianzhangbjz/issues)
 
