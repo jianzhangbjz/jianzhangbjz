@@ -25,5 +25,3 @@
 
   [![Jian's github
   stats](https://github-readme-stats.vercel.app/api?username=jianzhangbjz&count_private=true&show_icons=true&theme=radical)](https://github.com/jianzhangbjz)
-
-[![Jian's github stats](https://github-readme-stats.vercel.app/api?username=jianzhangbjz&count_private=true&show_icons=true&theme=radical)](https://github.com/jianzhangbjz/github-readme-stats)
