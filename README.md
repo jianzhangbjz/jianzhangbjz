@@ -1,6 +1,6 @@
 ### Hi there, I'm Jian Zhang👋
 
-  **Principal Software Quality Engineer** | 11 years Kubernetes | 9 years Go | 9 years Red Hat
+  **Principal Platform Engineer** | 11 years Kubernetes | Kubernetes Org Member | 9 years Red Hat
 
   - 🔗 **[Technical Portfolio](https://jianzhangbjz.github.io/)** — 1,145 commits across 38 repos, with architecture diagrams and technical deep dives
   - 🏆 **322 merged PRs** across 46 open-source repositories, **258 code reviews**
