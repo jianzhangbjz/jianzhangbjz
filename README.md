@@ -1,6 +1,8 @@
 ### Hi there, I'm Jian Zhang👋
 
-  **Principal Platform Engineer** | 11 years Kubernetes | Kubernetes Org Member | 9 years Red Hat
+  **Principal Platform Engineer** — Kubernetes for GPU fleets
+
+  11 years Kubernetes · Kubernetes Org Member · 9 years Red Hat
 
   - 🔗 **[Technical Portfolio](https://jianzhangbjz.github.io/)** — 1,145 commits across 38 repos, with architecture diagrams and technical deep dives
   - 🏆 **322 merged PRs** across 46 open-source repositories, **258 code reviews**
@@ -11,10 +13,19 @@
   - 📜 [PMP Certified](https://www.youracclaim.com/badges/77ff0c8d-cf6b-4532-b471-ba7263ff1113/public_url) | Red Hat Certified Specialist in Ansible Automation
   - 💬 Ask me anything [here](https://github.com/jianzhangbjz/jianzhangbjz/issues)
 
+  #### Current focus — GPU infrastructure on Kubernetes
+
+  Running Kubernetes for GPU fleets and sending fixes back upstream to the tools that manage them.
+
+  - 🔭 [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) — GPU fault detection, quarantine and remediation. Fixed a change-stream failure that silently stopped event processing while the pod stayed Ready ([#2040](https://github.com/NVIDIA/NVSentinel/pull/2040), merged), after filing the design issue behind it ([#2030](https://github.com/NVIDIA/NVSentinel/issues/2030))
+  - 🔬 GPU Operator · DCGM · NVLink/NVSwitch fault diagnosis — found three hardware faults on a node where every automated signal reported healthy
+  - 🧩 Multi-tenant GPU sharing (MIG, time-slicing) and topology-aware scheduling
+
   #### Key Contributions
 
   | Project | Contributions | Language |
   |---------|--------------|----------|
+  | [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | store-client change-stream recovery — the GPU fault-handling path | Go |
   | [openshift/release](https://github.com/openshift/release) | 129 merged PRs — CI/CD pipeline engineering | YAML |
   | [operator-framework/OLM](https://github.com/operator-framework/operator-lifecycle-manager) | 14 merged PRs — nil pointer fixes, leader election, OpenAPI | Go |
   | [operator-framework/operator-controller](https://github.com/operator-framework/operator-controller) | 5 merged PRs — HA deployments, Helm values, vendor mode | Go |
